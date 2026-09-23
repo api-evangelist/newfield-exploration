@@ -1,7 +1,9 @@
 ---
 title: Encana Corp. acquires Newfield Exploration Co. for US ...
 url: https://www.lexpert.ca/archive/encana-corp-acquires-newfield-exploration-co-for-us9366m/352240
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Newfield Exploration" press release artificial intelligence'
 position: 2
 source: serpapi-google

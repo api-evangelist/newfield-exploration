@@ -1,7 +1,9 @@
 ---
 title: Newfield Exploration | Company Overview & News
 url: https://www.forbes.com/companies/newfield-exploration/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Newfield Exploration" press release artificial intelligence'
 position: 1
 source: serpapi-google
