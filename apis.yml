@@ -50,3 +50,8 @@ maintainers:
     email: info@apievangelist.com
 x-parent: ovintiv
 x-relationship: acquisition
+x-status: acquired
+x-acquired-by: ovintiv
+x-acquired-date: '2019-02'
+x-status-source: "https://www.worldoil.com/news/2019/2/14/encana-completes-acquisition-of-newfield-exploration"
+x-status-evidence: "Encana (renamed Ovintiv in 2020) completed its all-stock acquisition of Newfield on 2019-02-13; newfield.com no longer resolves (roadmap#812)"
