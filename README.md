@@ -1,4 +1,4 @@
-# Newfield Exploration (newfield-exploration)
+# Newfield Exploration
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,37 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Newfield Exploration was an independent crude oil and natural gas exploration and production company before being acquired by Encana (now Ovintiv) in 2019. This repository captures any APIs, developer tools, and machine-readable API artifacts for the historical Newfield Exploration entity.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/newfield-exploration/refs/heads/main/apis.yml)
+Newfield Exploration was an independent crude oil and natural gas exploration and production company before being acquired by Encana (now Ovintiv) in 2019.
 
-## Scope
+**Areas:** Oil and Gas · Energy · Historical · Fortune 1000
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+## Newfield Exploration on APIs.io (historical record)
 
-## Tags
+Everything profiled for Newfield Exploration is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/newfield-exploration/](https://apis.io/providers/newfield-exploration/)** — or go straight to one of the APIs or properties below.
 
-- Oil and Gas
-- Energy
-- Historical
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented yet. Newfield Exploration was acquired by Encana (now Ovintiv) in 2019.
+- [Newfield Exploration Domain Security](https://apis.io/security/newfield-exploration/newfield-exploration-domain-security/)
 
-## Common Properties
+## Where to find this API
 
-| Property | URL |
-|----------|-----|
-| Website | https://www.ovintiv.com |
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Maintainers
+- [Website](https://www.ovintiv.com)
 
-- **API Evangelist** - info@apievangelist.com
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Newfield Exploration: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/newfield-exploration/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
